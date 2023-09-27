@@ -105,7 +105,7 @@
   <build>
     <finalName>Shopping</finalName>
     <plugins>
-      <!--这个插件作用是指定编译这个项目的Java版本和Project Language Level ，针对Intellij IDEA-->
+
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
