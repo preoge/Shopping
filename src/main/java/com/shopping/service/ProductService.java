@@ -5,9 +5,7 @@ import com.shopping.utils.Response;
 
 import java.util.List;
 
-/**
- * Created by 14437 on 2017/3/2.
- */
+
 public interface ProductService {
     public Product getProduct(int id);
 

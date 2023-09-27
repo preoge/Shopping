@@ -30,7 +30,7 @@
 			<div class="form-horizontal">
 				<div class="col-md-2 col-sm-2"></div>
 				<div class="form-group form-group-lg col-sm-6 col-md-6">
-					<input type="text" class="form-control" id="newSearchKeyWord" placeholder="疯狂Java讲义" />
+					<input type="text" class="form-control" id="newSearchKeyWord" placeholder="Java讲义" />
 				</div>
 				<button class="btn btn-primary btn-lg col-sm-2 col-md-2 big-button" onclick="searchPre()">查找商品</button>
 			</div>

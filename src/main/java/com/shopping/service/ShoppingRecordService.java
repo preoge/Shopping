@@ -4,9 +4,6 @@ import com.shopping.entity.ShoppingRecord;
 
 import java.util.List;
 
-/**
- * Created by 14437 on 2017/3/3.
- */
 public interface ShoppingRecordService {
     public ShoppingRecord getShoppingRecord(int userId, int productId,String time);
 

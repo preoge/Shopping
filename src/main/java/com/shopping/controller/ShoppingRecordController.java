@@ -17,9 +17,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by 14437 on 2017/3/3.
- */
+
 @Controller
 public class ShoppingRecordController {
     @Resource

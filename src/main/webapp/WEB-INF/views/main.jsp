@@ -143,7 +143,7 @@
 				  layer.alert('查询错误');
 			  }
 		  });
-		  //划重点划重点，这里的eval方法不同于prase方法，外面加括号
+
 		  allProducts = eval("("+allProducts+")");
 		  return allProducts;
 	  }

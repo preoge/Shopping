@@ -19,9 +19,6 @@ import javax.servlet.http.HttpSession;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * Created by 14437 on 2017/3/1.
- */
 @Controller
 public class UserController {
 

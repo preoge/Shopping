@@ -46,19 +46,19 @@
             <div class="form-group">
                 <label for="inputNickname" class="col-sm-2 col-md-2 control-label">昵称</label>
                 <div class="col-sm-6 col-md-6">
-                    <input type="text" class="form-control" id="inputNickname" placeholder="高帅富" />
+                    <input type="text" class="form-control" id="inputNickname" placeholder="张三" />
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputPassword" class="col-sm-2 col-md-2 control-label">密码</label>
                 <div class="col-sm-6 col-md-6">
-                    <input type="password" class="form-control" id="inputPassword" placeholder="禁止输入非法字符" />
+                    <input type="password" class="form-control" id="inputPassword" placeholder="请勿输入非法字符" />
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputPhoneNumber" class="col-sm-2 col-md-2 control-label">手机号码</label>
                 <div class="col-sm-6 col-md-6">
-                    <input type="text" class="form-control" id="inputPhoneNumber" placeholder="131xxxxxxxx" />
+                    <input type="text" class="form-control" id="inputPhoneNumber" placeholder="131233775869" />
                 </div>
             </div>
             <div class="form-group">
@@ -87,7 +87,7 @@
             <div class="form-group">
                 <label for="address" class="col-sm-2 col-md-2 control-label">地址</label>
                 <div class="col-sm-6 col-md-6">
-                    <input type="text" class="form-control" id="address" placeholder="131xxxxxxxx" />
+                    <input type="text" class="form-control" id="address" placeholder="13233775869" />
                 </div>
             </div>
             <div class="form-group">

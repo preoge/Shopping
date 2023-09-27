@@ -24,9 +24,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by 14437 on 2017/3/1.
- */
+
 @Controller
 public class ProductController {
     @Resource

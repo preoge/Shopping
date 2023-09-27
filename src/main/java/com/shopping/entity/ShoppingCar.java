@@ -2,9 +2,7 @@ package com.shopping.entity;
 
 import javax.persistence.*;
 
-/**
- * Created by 14437 on 2017/3/3.
- */
+
 @Entity
 @Table(name="shopping_car")
 @IdClass(value=ShoppingCarPriKey.class)

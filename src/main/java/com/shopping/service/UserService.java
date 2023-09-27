@@ -5,9 +5,7 @@ import com.shopping.utils.Response;
 
 import java.util.List;
 
-/**
- * Created by 14437 on 2017/3/1.
- */
+
 public interface UserService {
     User getUser(int id);
 

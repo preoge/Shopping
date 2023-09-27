@@ -8,9 +8,6 @@ import org.springframework.stereotype.Repository;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * Created by 14437 on 2017/3/3.
- */
 
 @Repository
 public class ShoppingCarDaoImplement implements ShoppingCarDao {

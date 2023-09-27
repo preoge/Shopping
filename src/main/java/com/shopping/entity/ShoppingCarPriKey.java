@@ -2,9 +2,7 @@ package com.shopping.entity;
 
 import java.io.Serializable;
 
-/**
- * Created by 14437 on 2017/3/3.
- */
+
 public class ShoppingCarPriKey implements Serializable {
     private int userId;
     private int productId;

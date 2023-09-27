@@ -9,9 +9,7 @@ import org.springframework.stereotype.Repository;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * Created by 14437 on 2017/3/7.
- */
+
 @Repository
 public class EvaluationDaoImplement implements EvaluationDao {
 
