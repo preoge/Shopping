@@ -1,16 +1,11 @@
 # Shopping
 ## 简单介绍
 本项目使用Spring+SpringMVC实现了一个简易的网上商城系统，使用maven构建为war包进行部署，使用docker运行。
+部分代码为chatgpt协助编写，框架源码来源于开源平台
 前端来自网上开源项目并做部分修改
+部署时，数据库来自docker远程镜像，终端输入 docker ps即可查看远程镜像投影端口，再使用图形化数据库工具查看和修改
 
 
-
-
-## 编译项目
-
-shell script
-# 进入项目根目录
-cd ./Shopping
 
 # 编译war包
 mvn clean package -DskipTests
@@ -20,7 +15,7 @@ docker-compose build
 
 # 启动mysql和shopping
 docker-compose up -d
-```
+
 在http://[server-ip]:8080/Shopping访问主页。
 
 ## 默认用户

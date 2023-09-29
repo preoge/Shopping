@@ -40,7 +40,7 @@ public class UserServiceImplement implements UserService {
         userDao.addUser(user);
     }
 
-    //推荐写法，具体业务逻辑放在Service实现方法里面
+
     @Override
     @Transactional
     public Response deleteUser(int id) {
